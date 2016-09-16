@@ -1,0 +1,8 @@
+curl >= 7.31.0
+cyrus-sasl >= 2.1.23
+glibc-solibs >= 2.17
+libidn >= 1.25
+libquvi-scripts >= 0.4
+lua >= 5.2.4
+openssl >= 1.0.1e | openssl-solibs >= 1.0.1e
+zlib >= 1.2.8
