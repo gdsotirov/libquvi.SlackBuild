@@ -1,0 +1,11 @@
+libquvi: libquvi (A library for parsing media stream properties)
+libquvi:
+libquvi: libquvi is a library for parsing Adobe flash video download links (for
+libquiv: example from Youtube and other video sharing sites).  It provides an
+libquvi: C API that does not require the flash technology.
+libquvi:
+libquvi:
+libquvi:
+libquvi:
+libquvi:
+libquvi: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
